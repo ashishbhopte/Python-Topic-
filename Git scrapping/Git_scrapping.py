@@ -43,7 +43,7 @@ def main(username, patterns):
     print("\033[94m" + "="*50)
     print(" " * 15 + "GitHub Scraper")
     print("="*50 + "\033[0m")
-    print("\033[92mDeveloped by: sahwe, smoke-wolf, JDX-50S\033[0m")
+    print("\033[92mDeveloped by: Ashish Bhopte, JDX-50S\033[0m")
     print("\033[94m" + "="*50 + "\033[0m")
 
     repos = get_repos(username)
